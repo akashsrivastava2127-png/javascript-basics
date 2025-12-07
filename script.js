@@ -1,0 +1,1 @@
+console.log(" hi Akash this is the script file now we are going to upload this in github");
